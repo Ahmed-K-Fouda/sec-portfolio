@@ -2,8 +2,6 @@
 
 A sleek, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This portfolio showcases projects, skills, and professional information with a modern design and smooth user experience.
 
-![Portfolio Preview](https://portfolio-a-fouda.netlify.app/)
-
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
@@ -125,3 +123,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
 - [Framer Motion](https://www.framer.com/motion/)
+
+## 
+
+-- [Live-Preview](https://portfolio-a-fouda.netlify.app/)
