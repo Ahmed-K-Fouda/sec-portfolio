@@ -2,7 +2,7 @@
 
 A sleek, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This portfolio showcases projects, skills, and professional information with a modern design and smooth user experience.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
+![Portfolio Preview](https://portfolio-a-fouda.netlify.app/)
 
 ## Features
 
